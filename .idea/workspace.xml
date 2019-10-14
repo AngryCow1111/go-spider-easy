@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecd514de-02c5-483c-8187-17a2837b2e8e" name="Default Changelist" comment="" />
+    <list default="true" id="ecd514de-02c5-483c-8187-17a2837b2e8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.1/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="useGoPathFromSystemEnvironment" value="false" />
@@ -44,6 +47,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -142,6 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571026537018</updated>
       <workItem from="1571026538757" duration="13721000" />
+      <workItem from="1571041080201" duration="778000" />
     </task>
     <servers />
   </component>
@@ -153,7 +158,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -161,6 +168,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" />
+      <path value="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" />
+      <path value="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" />
+      <path value="$PROJECT_DIR$/src/github.com/golang/crypto" />
+      <path value="$PROJECT_DIR$/src/github.com/mattn/go-sqlite3" />
+      <path value="$PROJECT_DIR$/src/github.com/opesun/goquery" />
+      <path value="$PROJECT_DIR$/src/golang.org/x/net" />
+    </ignored-roots>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
