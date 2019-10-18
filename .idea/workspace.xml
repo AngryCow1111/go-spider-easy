@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd514de-02c5-483c-8187-17a2837b2e8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +34,24 @@
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.1/libexec" />
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -115,8 +133,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build news-spider/src/pool" />
-        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build news-spider/goroutine" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build news-spider/src/pool" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +167,8 @@
       <updated>1571026537018</updated>
       <workItem from="1571026538757" duration="13721000" />
       <workItem from="1571041080201" duration="778000" />
+      <workItem from="1571042658853" duration="684000" />
+      <workItem from="1571411272180" duration="829000" />
     </task>
     <servers />
   </component>
@@ -156,6 +178,23 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="HEAD..master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -168,6 +207,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="RELOAD_CONTEXT" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" />
       <path value="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" />
